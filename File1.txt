@@ -1,7 +1,11 @@
 Change 1
 
 
+modifying in branch bug234 for rebase test
 change in idea branch
 
 Change in master branch
 
+
+modifying the file for rebase test in bug 123 branch
+modifying for rebase test in bug123

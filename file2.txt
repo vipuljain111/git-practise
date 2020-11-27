@@ -1,0 +1,2 @@
+Rebase test
+modifying file in bug123 branch 
