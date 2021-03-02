@@ -10,4 +10,7 @@ Change in master branch
 modifying the file for rebase test in bug 123 branch
 modifying for rebase test in bug123
 
+
+feature branch change plz change in master branch
 modified in master plz check while merging with feature branch
+
